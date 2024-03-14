@@ -1,0 +1,22 @@
+/*
+    Header Section
+*/
+.header-section {
+  background-color: #002344;
+  font-weight: bold;
+}
+.header-section a {
+  color: white;
+}
+.header-section button {
+  font-weight: bold;
+  color: white;
+  border-color: white;
+}
+.header-section button:hover {
+  background-color: white;
+  color: black;
+}
+/*
+  Main Section  
+*/
